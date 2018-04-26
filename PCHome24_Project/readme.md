@@ -19,7 +19,7 @@
     原先預計使用pyquery套件進行爬蟲  
     實作時發現其PCHome網站 非靜態網站 pyquery套件無法爬取內容
   
-    於是使用selenum套件來獲得載入動態後的DOM文件  
+    於是使用selenium套件來獲得載入動態後的DOM文件  
     再將其DOM文件套入pyquery做網頁爬蟲
 
 -   **階段2**  
