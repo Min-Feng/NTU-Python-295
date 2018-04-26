@@ -51,7 +51,7 @@
 
     下載套件 pyinstaller  
 
-        $ pip install pyinstaller
+        $ pip install pyinsㄔㄛtaller
 
     安裝完成後  
     在CLI(command-line interface)或其他命令提示字元輸入以下指令  

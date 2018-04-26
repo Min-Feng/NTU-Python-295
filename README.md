@@ -5,7 +5,7 @@
 
 # 內容
 - 期末專題 
-    - PCHome24H商城 網頁爬蟲程式
+    - [PCHome24H商城 網頁爬蟲程式](PCHome24_Project/PCHome24_Project.ipynb)
 
 - 練習題
     - 字串小學堂
