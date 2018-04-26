@@ -38,7 +38,7 @@
 
     注意在WIN微軟的環境時 讀或寫csv檔  
     請在open時加入參數 `newline=''`  
-    不然可能會因為CRLF的問題 造成錯誤寫入 ex:
+    不然可能會因為CRLF的問題 造成錯誤寫入  
 
     ```python
     open("Price_Record.csv",'w',newline='')
@@ -51,7 +51,7 @@
 
     下載套件 pyinstaller  
 
-        $ pip install pyinsㄔㄛtaller
+        $ pip install pyinstaller
 
     安裝完成後  
     在CLI(command-line interface)或其他命令提示字元輸入以下指令  
