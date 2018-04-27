@@ -68,4 +68,12 @@
     配合WIN的執行工具 每日排程  
     自動進行網頁爬蟲
 
+    **注意**
+    當我們要使用windows工作排程器執行python程式時  
+    如果有涉及到輸入、輸出等與路徑有關的問題時  
+    一定要額外指定程式的開始位置  
+    不然windows工作排程器會以其所在位置`c:\windows\system32\`作為起始位置
+
+    ref:[windows工作排程器執行python程式](https://beanobody.blogspot.tw/2017/05/windowspython.html?showComment=1524828732205)
+
 
