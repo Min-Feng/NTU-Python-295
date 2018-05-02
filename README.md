@@ -14,8 +14,8 @@
     - [摩斯電碼](exercise/ex205.ipynb)
     - [歌詞詞頻統計](exercise/ex203.ipynb)
     - [密室逃脫](exercise/ex207.ipynb)
-    - 及格名單2
-    - 金字塔
+    - [及格名單2](exercise/ex208.ipynb)
+    - [金字塔](exercise/ex209.ipynb)
 
 - 作業3(函式、模組與例外處理)
     - hw301 電子郵件驗證
