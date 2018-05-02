@@ -30,7 +30,7 @@
     - [hw203 迴文](hw2/hw203.ipynb)
     - [hw204 太鼓達人](hw2/hw204.ipynb)
     - [hw205 括號配對機器人](hw2/hw205.ipynb) *`使用Stack的觀念`*
-    - [hw206 [字串中學堂](hw2/hw206.ipynb)
+    - [hw206 字串中學堂](hw2/hw206.ipynb)
 
 - 作業1(基礎練習)
     - [hw101 促銷的店家](hw1/hw101.ipynb)
