@@ -13,7 +13,7 @@
     - [首領的名字](exercise/ex204.ipynb)
     - [摩斯電碼](exercise/ex205.ipynb)
     - [歌詞詞頻統計](exercise/ex203.ipynb)
-    - 密室逃脫
+    - [密室逃脫](exercise/ex207.ipynb)
     - 及格名單2
     - 金字塔
 
