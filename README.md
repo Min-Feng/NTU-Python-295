@@ -8,9 +8,9 @@
     - [PCHome24H商城 網頁爬蟲程式](PCHome24_Project/)
 
 - 練習題
-    - 字串小學堂
-    - 兩個字典的鍵值配對
-    - 首領的名字
+    - 字串小學堂(exercise/ex102.ipynb)
+    - 兩個字典的鍵值配對(exercise/ex202.ipynb)
+    - 首領的名字(exercise/ex204.ipynb)
     - 摩斯電碼
     - 歌詞詞頻統計
     - 密室逃脫
