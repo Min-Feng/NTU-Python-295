@@ -18,19 +18,19 @@
     - [金字塔](exercise/ex209.ipynb)
 
 - 作業3(函式、模組與例外處理)
-    - hw301 電子郵件驗證
-    - hw302 過了多久
-    - hw303 太空機器人的位置
-    - hw304 碼大師的風鈴
-    - hw305 動物星球
+    - [hw301 電子郵件驗證](hw3/hw301.ipynb)
+    - [hw302 過了多久](hw3/hw302.ipynb)
+    - [hw303 太空機器人的位置](hw3/hw303.ipynb)
+    - [hw304 碼大師的風鈴](hw3/hw304.ipynb)
+    - [hw305 動物星球](hw3/hw305.ipynb)
 
 - 作業2(迴圈與資料型態綜合練習)
-    - hw201 [機器人國語言翻譯機](hw2/hw201.ipynb)
-    - hw202 [計算字串間隔距離](hw2/hw202.ipynb)
-    - hw203 [迴文](hw2/hw203.ipynb)
-    - hw204 [太鼓達人](hw2/hw204.ipynb)
-    - hw205 [括號配對機器人](hw2/hw205.ipynb) *`使用Stack的觀念`*
-    - hw206 [字串中學堂](hw2/hw206.ipynb)
+    - [hw201 機器人國語言翻譯機](hw2/hw201.ipynb)
+    - [hw202 計算字串間隔距離](hw2/hw202.ipynb)
+    - [hw203 迴文](hw2/hw203.ipynb)
+    - [hw204 太鼓達人](hw2/hw204.ipynb)
+    - [hw205 括號配對機器人](hw2/hw205.ipynb) *`使用Stack的觀念`*
+    - [hw206 [字串中學堂](hw2/hw206.ipynb)
 
 - 作業1(基礎練習)
     - [hw101 促銷的店家](hw1/hw101.ipynb)
