@@ -12,7 +12,7 @@
     - [兩個字典的鍵值配對](exercise/ex202.ipynb)
     - [首領的名字](exercise/ex204.ipynb)
     - [摩斯電碼](exercise/ex205.ipynb)
-    - 歌詞詞頻統計
+    - [歌詞詞頻統計](exercise/ex203.ipynb)
     - 密室逃脫
     - 及格名單2
     - 金字塔
